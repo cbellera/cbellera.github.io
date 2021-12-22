@@ -3,8 +3,8 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University 1, Department of Biological Sciences, 2018"
+date: 2021-01-01
 location: "City, Country"
 ---
 
