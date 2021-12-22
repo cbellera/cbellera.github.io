@@ -1,5 +1,5 @@
 ---
-title: "Professor, Medicinal Chesmistry"
+title: "Professor, Medicinal Chemistry"
 collection: teaching
 type: "Degree course"
 
