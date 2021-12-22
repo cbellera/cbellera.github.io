@@ -1,5 +1,5 @@
 ---
-title: "Ensemble learning application to discover new trypanothione synthetase inhibitors"
+title: "Strengths and Weaknesses of Docking Simulations in the SARS-CoV-2 Era: the Main Protease (Mpro) Case Study"
 collection: publications
 permalink: /publication/21-08-23-jcheminfmodel
 
