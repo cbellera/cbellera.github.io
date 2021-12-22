@@ -6,9 +6,9 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'https://doi.org/10.1002/cbdv.202100712'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Llanos MA, Alberca LN, Larrea SCV, Schoijet AC, Alonso GD, Bellera CL, Gavenet L, Talevi A. (2009). &quot;PHomology Modeling and Molecular Dynamics Simulations of Trypanosoma cruzi Phosphodiesterase b1.&quot; <i>Chem Biodivers</i>. 2021: e210072.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
 
 [Download paper here](https://doi.org/10.1002/cbdv.202100712)
 
