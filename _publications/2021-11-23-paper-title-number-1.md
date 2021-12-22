@@ -3,8 +3,8 @@ title: "Homology Modeling and Molecular Dynamics Simulations of Trypanosoma cruz
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2021-11-23
+venue: 'Chem Biodivers'
 paperurl: 'https://doi.org/10.1002/cbdv.202100712'
 citation: 'Llanos MA, Alberca LN, Larrea SCV, Schoijet AC, Alonso GD, Bellera CL, Gavenet L, Talevi A. (2009). &quot;PHomology Modeling and Molecular Dynamics Simulations of Trypanosoma cruzi Phosphodiesterase b1.&quot; <i>Chem Biodivers</i>. 2021: e210072.'
 ---
