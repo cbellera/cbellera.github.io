@@ -1,9 +1,9 @@
 ---
-title: "Professor"
+title: "Professor, Medicinal Chesmistry"
 collection: teaching
-type: "Medicinal Chemistry"
+type: "Degree course"
 permalink: /teaching/2018-1professor
-venue: "National University of La Plata, Department of Biological Sciences, Faculty of Excat Science"
+venue: "National University of La Plata, Faculty of Excat Science, Department of Biological Sciences"
 date: 2018-05-01 / Present
 location: "La Plata, Argentina"
 ---
