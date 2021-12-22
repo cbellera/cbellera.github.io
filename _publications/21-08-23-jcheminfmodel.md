@@ -1,7 +1,7 @@
 ---
 title: "Strengths and Weaknesses of Docking Simulations in the SARS-CoV-2 Era: the Main Protease (Mpro) Case Study"
 collection: publications
-permalink: /publication/21-08-23-jcheminfmodel
+permalink:
 
 date: 2021-08-23
 venue: 'Journal of Chemical Information and Modeling  '
