@@ -4,7 +4,7 @@ collection: teaching
 type: "Degree course"
 permalink: /teaching/2018-2professor
 venue: "National University of La Plata, Faculty of Exact Sciences, Department of Biological Sciences"
-date: 2018-05-01 /present
+date: 2018-2021
 location: "LA Plata, Argentina"
 ---
 
