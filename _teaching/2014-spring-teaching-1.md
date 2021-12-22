@@ -1,11 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Chief Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Degree course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department of Biological Sciences, 2018"
-date: 2021-01-01
-location: "City, Country"
+venue: "National University of La Plata, Faculty of Exact Sciences, Department of Biological Sciences"
+date: 2015-05-01
+date: 2018-04-30
+location: "La Plata, Argentina"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
