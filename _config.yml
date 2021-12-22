@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Carolina Bellera"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "👋 I am Associate Researcher in LIDeB 🇦🇷👩‍ 💻💊🐍🎈"
+  location         : "La Plata, Argentina"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "hhttps://pubmed.ncbi.nlm.nih.gov/?term=Carolina+Bellera"
   googlescholar    : "https://scholar.google.com/citations?user=igqB7Y4AAAAJ&hl=es"
   email            :
   researchgate     : "https://www.researchgate.net/profile/cbellera"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@carobellera"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Argentina/Buenos _Aires # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
