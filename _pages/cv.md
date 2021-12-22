@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "📓 CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Exact Sciences, Biological area, National Univesrity of La Plata, 2014
+* Pharmacist, Faculty of Exact Sciences, National University of La Plata, 2007
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Research Associate
+  * CONICET
+  * Topic: Drug repurposing for the treatment of chagas disease by cheminformatics and bioinformatics approaches
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2016-2019: Research Assistant
+  * CONICET
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Luis Bruno-Blanch
+  
+* 2015-2016: Posdoctoral Fellow 
+  * CONICET
+  * Supervisors: Professor Alan Talevi and Ph.D Carolina Carrillo
+
+* 2011-2015: Doctoral Fellow
+  * CONICET
+  * Supervisor: Professor Luis Bruno-Blanch
   
 Skills
 ======
