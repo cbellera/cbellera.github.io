@@ -1,5 +1,5 @@
 ---
-title: "Chief Teaching Assistant"
+title: "Chief Teaching Assistant, Biopharmacy"
 collection: teaching
 type: "Degree course"
 permalink: /teaching/2014-spring-teaching-1
