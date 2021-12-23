@@ -5,7 +5,6 @@ type: "Degree course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "National University of La Plata, Faculty of Exact Sciences, Department of Biological Sciences"
 date: 2015-05-01
-date: 2018-04-30
 location: "La Plata, Argentina"
 ---
 
