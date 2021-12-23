@@ -15,7 +15,7 @@ Education
 * Pharmacist, Faculty of Exact Sciences, National University of La Plata, 2007
 
 
-Work experience
+Research experience
 ======
 * 2019-present: Research Associate
   * CONICET
@@ -23,25 +23,37 @@ Work experience
 
 * 2016-2019: Research Assistant
   * CONICET
-  * Duties included: Merging pull requests
+  * Topic: Drug repurposing for the treatment of chagas disease by cheminformatics and bioinformatics approaches
   * Supervisor: Professor Luis Bruno-Blanch
   
 * 2015-2016: Posdoctoral Fellow 
   * CONICET
-  * Supervisors: Professor Alan Talevi and Ph.D Carolina Carrillo
+  * Topic: Construction and Application of Drug-Protein Networks in Search of New Trypanocidal Drugs for the Treatment of Chagas Disease 
+  * Supervisors: Professor Ph.D Alan Talevi and Ph.D Carolina Carrillo
 
 * 2011-2015: Doctoral Fellow
   * CONICET
+  * Topic: Rational Search of New Antichagasic Drugs Inhibitors of Cruzipain
+  * Supervisor: Professor Luis Bruno-Blanch
+
+* 2007-2008: Training scholarship
+  * CICPBA
+  * Topic: Virtual Search for Anticonvulsant Drugs 
   * Supervisor: Professor Luis Bruno-Blanch
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Medicinal Chemistry
+* In Silico Drug discovery
+  * Cheminformatics
+  * Bioinformatics
   * Sub-skill 2.3
-* Skill 3
+* Python
+  * Machine Learning
+  * Data Analysis
+* Web Design
+  * html
+  * css
 
 Publications
 ======
@@ -63,4 +75,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently presented more than 40 presentations at conferences and congresses on my topic.
