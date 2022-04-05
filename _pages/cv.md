@@ -17,16 +17,16 @@ Education
 
 Research experience
 ======
-* 2019-present: Research Associate
+* 2019-present: Associate Researcher
   * CONICET
   * Topic: Drug repurposing for the treatment of chagas disease by cheminformatics and bioinformatics approaches
 
-* 2016-2019: Research Assistant
+* 2016-2019: Assistant Researcher
   * CONICET
   * Topic: Drug repurposing for the treatment of chagas disease by cheminformatics and bioinformatics approaches
-  * Supervisor: Professor Luis Bruno-Blanch
+  * Supervisors: Professor Luis Bruno-Blanch
   
-* 2015-2016: Posdoctoral Fellow 
+* 2015-2016: Posdoctoral Fellow
   * CONICET
   * Topic: Construction and Application of Drug-Protein Networks in Search of New Trypanocidal Drugs for the Treatment of Chagas Disease 
   * Supervisors: Professor Ph.D Alan Talevi and Ph.D Carolina Carrillo
