@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Scientist with over 10 years of experience working in Medicinal Chemistry (in silico drug discovery). Professor in Medicinal Chemistry (UNLP). Passionate about teamworking, and applying design thinking and development of cheminformatics and bioinformatics methodologies applied to drug discovery.
+Hi! Iam a Scientist with over 10 years of experience working in Medicinal Chemistry (in silico drug discovery). Professor in Medicinal Chemistry (UNLP). Passionate about teamworking, and applying design thinking and development of cheminformatics and bioinformatics methodologies applied to drug discovery.
 
 Extended Bio
 ======
